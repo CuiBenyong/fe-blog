@@ -235,7 +235,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 记录美国工作与生活
+    description: 探索前端技术的无尽可能性
     button:
       enable: true
       icon: fab fa-github

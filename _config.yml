@@ -3,24 +3,24 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 美国工作与生活
-subtitle: 记录美国工作与生活
-description: 一个中国程序员对美国工作与生活的记录
+title: 玄一的博客
+subtitle: 探索前端技术的无尽可能性
+description: 玄一技术博客是一个致力于分享前端技术、开发经验和最新技术趋势的博客。我们提供高质量的教程、文章和案例分析，帮助开发者深入了解前端开发，并掌握最新的技术工具和框架。
 keywords:
-  - USA
-  - IT
-  - Developer
-  - Sofeware 
-  - Engineer
-  - Apple
+  - 前端开发
+  - 技术博客
+  - 前端教程
+  - Web开发
+  - HTML
+  - CSS
   - JavaScript
   - React
-  - Living in America 
-  - Microsoft
-  - Insurance
-  - finance
-  - Work
-  - Learn
+  - Vue
+  - Angular
+  - 前端框架
+  - 前端工具
+  - 技术趋势
+  - 开发经验
 
 author: Eric
 language: en
@@ -28,7 +28,7 @@ timezone: Asia/Hong_Kong
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://ccblog.vbcg.top
+url: https://fe.vbcg.top
 permalink: :hash/
 permalink_defaults:
 pretty_urls:

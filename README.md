@@ -36,7 +36,7 @@
 
 ```yml
 title: 玄一的博客
-subtitle: 记录美国工作与生活
+subtitle: 探索前端技术的无尽可能性
 description: 玄一技术博客是一个致力于分享前端技术、开发经验和最新技术趋势的博客。我们提供高质量的教程、文章和案例分析，帮助开发者深入了解前端开发，并掌握最新的技术工具和框架。
 keywords:
 # 作者名称，会显示在侧边栏
@@ -47,7 +47,7 @@ author: 玄一
 
 ```yml
 card_author:
-  description: 记录美国工作与生活
+  description: 探索前端技术的无尽可能性
 ```
 
 公告也可以在 `_config.butterfly.yml` 文件中修改：
