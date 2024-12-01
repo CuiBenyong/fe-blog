@@ -1,3 +1,11 @@
+<!--
+ * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
+ * @Date: 2024-12-01 21:07:53
+ * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
+ * @LastEditTime: 2024-12-01 21:22:32
+ * @FilePath: /fe-blog/source/about/index.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ---
 title: 关于
 date: 2023-07-16 15:54:03
@@ -19,6 +27,6 @@ date: 2023-07-16 15:54:03
 
 如果您有任何问题或建议，请随时与我联系。您可以通过以下方式找到我：
 
-- 电子邮件： rulesylvester@gmail.com
+- 电子邮件： cuibenyong@gmail.com
 
 感谢您访问我的网站！
