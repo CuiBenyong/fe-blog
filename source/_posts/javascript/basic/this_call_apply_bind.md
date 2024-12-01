@@ -1,5 +1,5 @@
 ---
-title: 变量定义
+title: this、call、apply、bind
 date: 2024-12-01 11:11:00
 categories:
   - Front end
